@@ -8,3 +8,6 @@
 ## bookmarks
 - `m{letter}` set the bookmark with the {letter} identifier
 - `'{letter}` go to the {letter} bookmark
+
+## miscelaneous
+- `%` current file path
