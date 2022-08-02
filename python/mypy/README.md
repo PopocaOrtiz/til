@@ -1,0 +1,1 @@
+**Question:** When returning a basic generator, the function's return value can be typed as Iterable or Iterator, but what's the difference between both of them?
