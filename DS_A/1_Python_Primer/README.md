@@ -1,38 +1,4 @@
-# Data Structures & Algorithms by Goodrich, Tamasia & Goldwasser
-- part of the curriculum of computer science engineering degrees
-- design, analysis and implementation of algorithms
-- beginning level data structures
-- intermediate level introduction to algorithms
-- ADT: abstract data type, list, bag, collection...
-- ADT rather than collection of bytes and addresses
-- differente implementation strategies for a particular ADT
-- object oriented design patterns to organize those implementations into reusable components
-- DS: data structure
-- algorithm strategies for efficient realizations of common DS
-- algorithm performance, common trade offs between competing strategies
-- use existing DS and algorithms found in libraries
-- many example aplications
-    - file systems
-    - matching tags in structured formats(HTML)
-    - simple cryptography
-    - text frequency analysis
-    - automated geometric layout
-    - Huffman coding
-    - DNA sequence alignment
-    - search engine indexing
-- differences with other books of those authors
-    - code redesigned to use python features like generators
-    - ADT consistent interface with python's data types and python's collections module
-    - dynamic matrix fundamentals for lists, tuples and str
-- online help
-    - hints to all excersises
-    - solutions to excersises
-- contents and organization
-    - fundational techniques like algorithm analysis and recursion
-    - memory management
-    - seven most important functions for algorithm analysis, sections that don't use those functions are optional and indicated with a star (⋆)
-
-## Python overview
+# 1 Python primer
 - classes form the basis for all data types
 - identifier implicitly associated with the memory address
 - an identifier has no declared type but the value(object) has a definite type
@@ -100,9 +66,14 @@
 - next number in a pseudo-random generator is determined by the previous number(s)
 - independent instances of the Random class but also a global single generator instance
 
-# Further reading
-https://bcs.wiley.com/he-bcs/Books?action=index&itemId=1118290275&bcsId=8029
-https://stackoverflow.com/questions/10267084/what-is-adt-abstract-data-type#:~:text=Commonly%20used%20ADT'S%20include%3A%20Linked,Hash%20Tables%20and%20many%20others.
+## Exercises of Creativity
 
+- **[C-1.18](C_1_18.py):** Reproduce a list with a comprehension
+- **[C-1.20](C_1_20.py):** Custom random.shuffle function using random.randint
+- **[C-1.21](C_1_21.py):** Read lines until EOF, then prints them in reverse order 
+- **[C-1.22](C_1_22.py):** Dot product of two arrays 
+- **[C-1.23](C_1_23.py):** In a list add an element that may be out of bounds
+- **[C-1.24](C_1_24.py):** Count number of vowels in a string
+- **[C-1.25](C_1_25.py):** Remove punctuations from a string
+- **[C-1.26](C_1_26.py):** Determine if numbers form a valid formula
 
-page 11
