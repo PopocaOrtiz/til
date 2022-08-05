@@ -76,4 +76,13 @@
 - **[C-1.24](C_1_24.py):** Count number of vowels in a string
 - **[C-1.25](C_1_25.py):** Remove punctuations from a string
 - **[C-1.26](C_1_26.py):** Determine if numbers form a valid formula
+- **[C-1.27](C_1_27.py):** Return factors of a number in incremental order
+- **[C-1.28](C_1_28.py):** Calculate the p-norm of a vector
+
+## Projects
+
+- **[P-1.29](C_1_29.py):** All posible strings formed by a group of characters
+- **[P-1.30](C_1_30.py):** Times a number can be repeatedly divided by 2
+- **[P-1.31](C_1_31.py):** Calculate the amount of bills and coins for a given
+change
 
