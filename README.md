@@ -1,6 +1,7 @@
 # Today I Learned
 
 ## Daily progress
+- **2022-08-08:** Continue the project exercises of "python primer" chapter of the DS & A book
 - **2022-08-04:** Start the project exercises of "python primer" chapter of the DS & A book
 - **2022-08-02:** Finish the creativity exercises of "python primer" chapter of the DS & A book, also review mypy and vim
 - **2022-08-01:** Continue working in the creativity exercises of "python primer" chapter of DS & A book 

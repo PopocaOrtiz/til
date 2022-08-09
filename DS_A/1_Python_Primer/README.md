@@ -84,5 +84,9 @@
 - **[P-1.29](C_1_29.py):** All posible strings formed by a group of characters
 - **[P-1.30](C_1_30.py):** Times a number can be repeatedly divided by 2
 - **[P-1.31](C_1_31.py):** Calculate the amount of bills and coins for a given
+- **[P-1.32](C_1_32.py):** Calculator that receives an operator or a number at
+  a time
+- **[P-1.33](C_1_33.py):** Calculator that receives many operations in a single
+  input
 change
 
